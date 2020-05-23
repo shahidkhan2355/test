@@ -1,6 +1,6 @@
 <?php
 
-echo 'Hello..';
+echo 'this is my first program';
 
 
 ?>
